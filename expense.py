@@ -26,3 +26,5 @@ print("\n=== CEO REPORT ===")
 print(f"Total transactions: {len(expenses)}")
 print(f"Total spent: ₹{total}")
 print("Saakya, you just did what 99% of 17yos don't. You faced your money.")
+avg = total / len(expenses) if expenses else 0
+print(f"📊 Average spend: ₹{avg:.2f}")
