@@ -8,8 +8,7 @@ CLI app that tracks expenses and gives CEO feedback on spending habits.
 ### ⚡ Features:
 - Log expenses with item + cost
 - Auto-calculates total + average spend
-- NKR mode: Warns if spending > ₹200
-- Saakya mode: Celebrates if spending < ₹200
+  
 
 ### 💎 Run it:
 ```python
