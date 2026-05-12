@@ -1,6 +1,6 @@
 
 # 💰 expense-tracker-saakya
-**My first Python app | Built 12/05/2026 | CEO Saakya | 19/07/2008**
+**My first Python app | Built 12/05/2026 | CEO Saakya |
 
 ### 🚀 What it does:
 CLI app that tracks expenses and gives CEO feedback on spending habits.
